@@ -1,4 +1,4 @@
-# CyberGuard Pro - Advanced Cybersecurity & Content Management Platform
+# RafalW3bCraft-Blog
 
 A sophisticated cybersecurity and content management web application designed for enterprise-grade security and seamless user experience, offering advanced protection and intelligent monitoring capabilities.
 
@@ -84,7 +84,8 @@ A sophisticated cybersecurity and content management web application designed fo
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd cybersecurity-cms
+   cd RafalW3bCraft-Blog-T
+
    ```
 
 2. **Install dependencies**
